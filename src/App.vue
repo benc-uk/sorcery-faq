@@ -28,7 +28,7 @@
 </template>
 
 <script>
-const FAQ_JSON_URL = '/data.json';
+const FAQ_JSON_URL = 'data.json';
 const IMAGE_BASE_URL = 'https://d27a44hjr9gen3.cloudfront.net/alp/';
 
 export default {
